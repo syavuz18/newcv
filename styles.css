@@ -1,0 +1,17 @@
+body{
+    background-color: powderblue;
+}
+hr{
+    border-style: none;
+    background-color: powderblue;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 20px;
+    width: 30%;
+}
+h1{
+    color:cornflowerblue
+}
+h3{
+    color:ivory
+}
